@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an ai assistant <br>👯 I’m looking to collaborate on ai projects<br>🤝 I’m looking for help with improvement of tech and ai<br>🌱 I’m currently learning JavaScript <br>💬 Ask me about anything <br>⚡  The only joke is me trying to learn 5 languages the same time
+🔭 Coding and Cybersecurity <br>👯 I’m looking to collaborate on ai projects<br>🤝 I’m looking for help with improvement of tech and ai<br>🌱 I’m currently learning JavaScript <br>💬 Ask me about anything <br>⚡  The only joke is me trying to learn 5 languages the same time
 
 
 ## 🌐 Socials:
