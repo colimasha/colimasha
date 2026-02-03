@@ -16,6 +16,12 @@ I am Colimasha. I like building software and cybersecurity.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=colimasha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### 📈 GitHub Activity
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=colimasha&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=colimasha&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=colimasha&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=colimasha&theme=radical&utcOffset=3)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
